@@ -23,7 +23,7 @@ Well. Read more about #OpenBoot #OpenBootProm #PROM #MonitorMode #SUNMicrosystem
 
 ## DOWNLOAD THE PDF
 
-You can download the PDF here [Programming a Problem-Oriented Language (PDF)](POL.PDF).
+You can download the PDF here [Programming a Problem-Oriented Language (PDF)](POL.pdf).
 
 ## Warning
 
